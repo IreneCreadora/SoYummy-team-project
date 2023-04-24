@@ -1,6 +1,6 @@
 import { AuthNav } from '../components/AuthNav/AuthNav';
 
-const WelcomPage = () => {
+const WelcomePage = () => {
   return (
     <section className="  ">
       <div className=" flex bg-hero w-screen  text-center gap-4 bg-cover bg-center bg-no-repeat h-screen items-center justify-center ">
@@ -47,4 +47,4 @@ const WelcomPage = () => {
   );
 };
 
-export default WelcomPage;
+export default WelcomePage;
